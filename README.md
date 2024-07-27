@@ -9,6 +9,7 @@ La aplicación "Asistente Laboral" ha sido diseñada con el objetivo de facilita
 Atentamente: MTM-COL.
 
 Enlace a vídeo explicativo: https://youtu.be/BOQCK4Sp_3Q
+
 Enlace a programa: https://tinyurl.com/ms2pxamu
 
 Nota legal: proyecto desarrollado con fines educativos. El creador de este software no asume ninguna responsabilidad por cómo otros puedan elegir usar el código.
@@ -21,7 +22,8 @@ Use the Job Assistant to find your new job!
 
 Sincerely: MTM-COL.
 
-video link: https://youtu.be/BOQCK4Sp_3Q
+Video link: https://youtu.be/BOQCK4Sp_3Q
+
 Application link: https://tinyurl.com/ms2pxamu
 
 Legal notice: project developed for educational purposes. The creator of this software assumes no responsibility for how others may choose to use the code.
