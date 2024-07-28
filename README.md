@@ -8,6 +8,8 @@ La aplicación "Asistente Laboral" ha sido diseñada con el objetivo de facilita
 
 Atentamente: MTM-COL.
 
+La aplicación se pogramó en Python 3 y estas son algunas librerías empleadas: tkinter, urllib, request, pandas, selenium webdriver, regular expression (re) y operating system (os).
+
 Enlace a vídeo explicativo: https://youtu.be/BOQCK4Sp_3Q
 
 Enlace a programa: https://tinyurl.com/ms2pxamu
@@ -21,6 +23,8 @@ The "Asistente Laboral" application has been designed with the aim of facilitati
 Use the Job Assistant to find your new job!
 
 Sincerely: MTM-COL.
+
+The application was programmed in Python 3 and these are some of the libraries used: tkinter, urllib, request, pandas, selenium webdriver, regular expression (re) and operating system (os).
 
 Video link: https://youtu.be/BOQCK4Sp_3Q
 
